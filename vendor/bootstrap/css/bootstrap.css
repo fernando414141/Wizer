@@ -4641,7 +4641,7 @@ button.close {
   bottom: 0;
   left: 0;
   z-index: 1040;
-  background-color: #02032A;
+  background-color: #12123d;
 }
 
 .modal-backdrop.fade {
@@ -4825,7 +4825,7 @@ button.close {
   padding: 3px 8px;
   color: #fff;
   text-align: center;
-  background-color: #02032A;
+  background-color: #12123d;
   border-radius: 0.25rem;
 }
 

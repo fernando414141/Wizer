@@ -309,7 +309,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   display: -ms-flexbox;
   display: flex;
   align-items: center;
-  background-color: #02032A;
+  background-color: #12123d;
 }
 
 
@@ -655,7 +655,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   display: flex;
   align-items: center;
   height: 70px;
-  background-color: #02032A;
+  background-color: #12123d;
   padding: 15px;
   display: none;
 
@@ -1512,7 +1512,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 [ RS Magnific-Popup ]*/
 .mfp-bg {
   z-index: 10000;
-  background-color: #02032A;
+  background-color: #12123d;
   opacity: 0.9;
 }
 
@@ -2647,7 +2647,7 @@ input.num-product::-webkit-inner-spin-button {
 .bg0 {background-color: #fff;}
 .bg1 {background-color: #921222;}
 .bg2 {background-color: #e6e6e6;}
-.bg3 {background-color: #02032A;}
+.bg3 {background-color: #12123d;}
 .bg5 {background-color: rgba(0,0,0,0.5);}
 .bg6 {background-color: #f2f2f2;}
 .bg7 {background-color: #333;}
@@ -2664,7 +2664,7 @@ input.num-product::-webkit-inner-spin-button {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: #02032A;
+  background-color: #12123d;
   opacity: 0.5;
 }
 
